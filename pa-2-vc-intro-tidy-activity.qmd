@@ -101,8 +101,6 @@ my_symbols <- tibble(symbols = c(lower_case,
 ```
 
 
-elloooo
-
 
 <!-- Computer Stage your Changes, Commit, and Push to the Git Repository-->
 <!-- Now change roles (Computer becomes Coder) and the new Computer should PULL down the repository to make changes  -->
