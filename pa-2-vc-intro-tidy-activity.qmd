@@ -127,7 +127,7 @@ By altering this top secret set of numbers, you will be able to create a message
 9.  Square every number.
 
 ```{r}
-#| label: add 14 to top_secret
+#| label: manipulating data
 #added 14 to every number in top_secret
 #there are several ways to do this, the way below doesn't overwrite any column so you "don't lose work"
 
