@@ -101,7 +101,7 @@ my_symbols <- tibble(symbols = c(lower_case,
 ```
 
 
-
+elloooo
 
 
 <!-- Computer Stage your Changes, Commit, and Push to the Git Repository-->
